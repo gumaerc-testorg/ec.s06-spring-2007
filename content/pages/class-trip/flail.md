@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Class Trip
+parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 title: Flail Used for Vegetation Clearance
 uid: 4ecf4df7-6b06-3a4a-c029-4b4bf5c3d7c3
 ---
 
 This section features pictures of the class trip to the Humanitarian Demining Training Center at Ft. Leonard Wood, MO, on February 25, 2005. All photos appear courtesy of the following course staff and students; Benjamin Linder, Andrew Heafitz, Andrew Brooks, Rosalind Takata, Helen Tsai, and Aron Zingman, and are used with permission.
-{{< image-gallery id="4ecf4df7-6b06-3a4a-c029-4b4bf5c3d7c3_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/" >}}
+{{< image-gallery id="4ecf4df7-6b06-3a4a-c029-4b4bf5c3d7c3_nanogallery2" baseUrl="/courses/ec-s06-design-for-demining-spring-2007/" >}}
 {{< image-gallery-item href="1215cfe1da8d0fa44c9e6109215a2933_flail01.jpg" data-ngdesc="Mini flail." text="Mini flail." >}}
 {{< image-gallery-item href="8f755510da160c35051db7079a122303_flail02.jpg" data-ngdesc="Rear view of the mini flail." text="Rear view of the mini flail." >}}
 {{< image-gallery-item href="78d6fa3c4963d212565310fdbb913654_flail03.jpg" data-ngdesc="Mini flail hammers spinning." text="Mini flail hammers spinning." >}}

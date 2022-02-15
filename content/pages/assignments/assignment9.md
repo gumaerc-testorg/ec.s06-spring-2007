@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 982a0b97-ecf7-969c-8006-d3ad694edfc1
 title: Assignment 9 - Project Criteria
 uid: 26d9855d-dd0b-eae0-778a-8d4243bb2f78

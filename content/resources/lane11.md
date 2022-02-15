@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Lane markings. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/36cd347ad27aa2d33b7622f9eaa93911_lane11.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/36cd347ad27aa2d33b7622f9eaa93911_lane11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Lane markings.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Lane markings. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lane Markings
+parent_type: CourseSection
 resourcetype: Image
 title: lane11.jpg
 uid: 36cd347a-d27a-a2d3-3b76-22f9eaa93911

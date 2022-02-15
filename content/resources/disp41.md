@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Booby traps. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/3c9e5e0ba06af00ac532f9a42f80920d_disp41.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/3c9e5e0ba06af00ac532f9a42f80920d_disp41.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Booby traps.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Booby traps. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Display Mines
+parent_type: CourseSection
 resourcetype: Image
 title: disp41.jpg
 uid: 3c9e5e0b-a06a-f00a-c532-f9a42f80920d

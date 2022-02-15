@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Basic PPE.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/22696f1fcbb633a1c1d1677f25e9a606_ppe04.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/22696f1fcbb633a1c1d1677f25e9a606_ppe04.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Class Trip
+parent_type: CourseSection
 resourcetype: Image
 title: ppe04.jpg
 uid: 22696f1f-cbb6-33a1-c1d1-677f25e9a606

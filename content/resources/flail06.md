@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Operator. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/17730a8305cae080fb863dd5c2e8c974_flail06.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/17730a8305cae080fb863dd5c2e8c974_flail06.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Operator.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Operator. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Flail Used for Vegetation Clearance
+parent_type: CourseSection
 resourcetype: Image
 title: flail06.jpg
 uid: 17730a83-05ca-e080-fb86-3dd5c2e8c974

@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Class Trip
+parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 title: Lane Markings
 uid: 18b2b4c6-0d05-38f6-47cf-2a411f9c125e
 ---
 
 This section features pictures of the class trip to the Humanitarian Demining Training Center at Ft. Leonard Wood, MO, on February 25, 2005. All photos appear courtesy of the following course staff and students; Benjamin Linder, Andrew Heafitz, Andrew Brooks, Rosalind Takata, Helen Tsai, and Aron Zingman, and are used with permission.
-{{< image-gallery id="18b2b4c6-0d05-38f6-47cf-2a411f9c125e_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/" >}}
+{{< image-gallery id="18b2b4c6-0d05-38f6-47cf-2a411f9c125e_nanogallery2" baseUrl="/courses/ec-s06-design-for-demining-spring-2007/" >}}
 {{< image-gallery-item href="fd27191d47f7029a3f987526e83d9d2a_lane01.jpg" data-ngdesc="Afghanistan marking system." text="Afghanistan marking system." >}}
 {{< image-gallery-item href="c348335e196c39b435b3e77927e13a9d_lane02.jpg" data-ngdesc="Afghanistan marking system." text="Afghanistan marking system." >}}
 {{< image-gallery-item href="d49e7e09f68c507c66186aa128181983_lane03.jpg" data-ngdesc="Cambodia marking system." text="Cambodia marking system." >}}

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Russian bomb and FAE. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/ab106ccfefb4dfeecd0e5686d1ede850_mine08.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/ab106ccfefb4dfeecd0e5686d1ede850_mine08.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Russian bomb and FAE.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Russian bomb and FAE. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Mines in the Ground
+parent_type: CourseSection
 resourcetype: Image
 title: mine08.jpg
 uid: ab106ccf-efb4-dfee-cd0e-5686d1ede850

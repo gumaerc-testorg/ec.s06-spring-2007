@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Orange clippers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/ebfd602a05077e62fb42d9f4c4a5f0cf_ppe29.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/ebfd602a05077e62fb42d9f4c4a5f0cf_ppe29.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Class Trip
+parent_type: CourseSection
 resourcetype: Image
 title: ppe29.jpg
 uid: ebfd602a-0507-7e62-fb42-d9f4c4a5f0cf

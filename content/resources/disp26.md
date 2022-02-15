@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Cement Mine. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/58b128a66ee1434c6573be603d24cef4_disp26.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/58b128a66ee1434c6573be603d24cef4_disp26.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Cement Mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Cement Mine. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Display Mines
+parent_type: CourseSection
 resourcetype: Image
 title: disp26.jpg
 uid: 58b128a6-6ee1-434c-6573-be603d24cef4

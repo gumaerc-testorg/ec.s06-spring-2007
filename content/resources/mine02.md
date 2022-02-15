@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Hidden Valmara mine. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/091b8ca111eb4fe866f81ee28015310a_mine02.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/091b8ca111eb4fe866f81ee28015310a_mine02.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Hidden Valmara mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Hidden Valmara mine. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Mines in the Ground
+parent_type: CourseSection
 resourcetype: Image
 title: mine02.jpg
 uid: 091b8ca1-11eb-4fe8-66f8-1ee28015310a

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Improvised explosive devices (IEDs). '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/b7fc4b5b32eb4d9d5c644741e3110e38_disp24.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/b7fc4b5b32eb4d9d5c644741e3110e38_disp24.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Improvised explosive devices (IEDs).
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Improvised explosive devices (IEDs). '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Display Mines
+parent_type: CourseSection
 resourcetype: Image
 title: disp24.jpg
 uid: b7fc4b5b-32eb-4d9d-5c64-4741e3110e38

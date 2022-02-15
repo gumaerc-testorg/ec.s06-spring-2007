@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: PPE.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/b67a73115fe9f83ee6b2773113065211_ppe05.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/b67a73115fe9f83ee6b2773113065211_ppe05.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Class Trip
+parent_type: CourseSection
 resourcetype: Image
 title: ppe05.jpg
 uid: b67a7311-5fe9-f83e-e6b2-773113065211

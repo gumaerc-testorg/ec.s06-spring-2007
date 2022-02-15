@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 982a0b97-ecf7-969c-8006-d3ad694edfc1
 title: Assignment 12 - Design Review One
 uid: 3dc27653-e1c4-3f26-c113-c88b7e3556e6

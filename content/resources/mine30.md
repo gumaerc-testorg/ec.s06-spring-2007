@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'UXO. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/fd4472495ea76d35f5be86ddfa8391a5_mine30.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/fd4472495ea76d35f5be86ddfa8391a5_mine30.jpg
 file_type: image/jpeg
 image_metadata:
   caption: UXO.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'UXO. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Mines in the Ground
+parent_type: CourseSection
 resourcetype: Image
 title: mine30.jpg
 uid: fd447249-5ea7-6d35-f5be-86ddfa8391a5

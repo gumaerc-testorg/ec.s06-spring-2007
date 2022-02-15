@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: MIT class at the manual demining demonstration.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/dcab8121bca81bebcd0044a9150a6044_trial03.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/dcab8121bca81bebcd0044a9150a6044_trial03.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Class Trip
+parent_type: CourseSection
 resourcetype: Image
 title: trial03.jpg
 uid: dcab8121-bca8-1beb-cd00-44a9150a6044

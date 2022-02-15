@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Anti-tank (AT) mine cutaway. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/b67f32839839a9b54a84faeb167e9d5d_disp05.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/b67f32839839a9b54a84faeb167e9d5d_disp05.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Anti-tank (AT) mine cutaway.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Anti-tank (AT) mine cutaway. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Display Mines
+parent_type: CourseSection
 resourcetype: Image
 title: disp05.jpg
 uid: b67f3283-9839-a9b5-4a84-faeb167e9d5d

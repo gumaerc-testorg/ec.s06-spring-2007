@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'MIT pick prod trial. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/da1b6412e4be818cf6f97a15f71631f2_mittool02.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/da1b6412e4be818cf6f97a15f71631f2_mittool02.jpg
 file_type: image/jpeg
 image_metadata:
   caption: MIT pick prod trial.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'MIT pick prod trial. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: MIT Tools Trial
+parent_type: CourseSection
 resourcetype: Image
 title: mittool02.jpg
 uid: da1b6412-e4be-818c-f6f9-7a15f71631f2

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Mini flail model number. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/1ad8b19464bbe56b60fb8343ea7c8cae_flail14.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/1ad8b19464bbe56b60fb8343ea7c8cae_flail14.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Mini flail model number.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Mini flail model number. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Flail Used for Vegetation Clearance
+parent_type: CourseSection
 resourcetype: Image
 title: flail14.jpg
 uid: 1ad8b194-64bb-e56b-60fb-8343ea7c8cae

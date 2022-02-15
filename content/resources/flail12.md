@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Front view of the mini flail hammers. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/150b1c270dd586353d2c7c4b0db39c56_flail12.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/150b1c270dd586353d2c7c4b0db39c56_flail12.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Front view of the mini flail hammers.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Front view of the mini flail hammers. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Flail Used for Vegetation Clearance
+parent_type: CourseSection
 resourcetype: Image
 title: flail12.jpg
 uid: 150b1c27-0dd5-8635-3d2c-7c4b0db39c56

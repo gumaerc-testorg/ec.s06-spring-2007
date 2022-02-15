@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Class Trip
+parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 title: Mines in the Ground
 uid: e43b56e1-0b3c-8b54-f1a2-14e7d37158ad
 ---
 
 This section features pictures of the class trip to the Humanitarian Demining Training Center at Ft. Leonard Wood, MO, on February 25, 2005. All photos appear courtesy of the following course staff and students; Benjamin Linder, Andrew Heafitz, Andrew Brooks, Rosalind Takata, Helen Tsai, and Aron Zingman, and are used with permission.
-{{< image-gallery id="e43b56e1-0b3c-8b54-f1a2-14e7d37158ad_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/" >}}
+{{< image-gallery id="e43b56e1-0b3c-8b54-f1a2-14e7d37158ad_nanogallery2" baseUrl="/courses/ec-s06-design-for-demining-spring-2007/" >}}
 {{< image-gallery-item href="3f710ef10fbcdac5f40d05839086fe15_mine01.jpg" data-ngdesc="Hidden mines." text="Hidden mines." >}}
 {{< image-gallery-item href="091b8ca111eb4fe866f81ee28015310a_mine02.jpg" data-ngdesc="Hidden Valmara mine." text="Hidden Valmara mine." >}}
 {{< image-gallery-item href="4f984104a060f70b6f83d46ba81d837a_mine03.jpg" data-ngdesc="Emplaced Valmara mine." text="Emplaced Valmara mine." >}}

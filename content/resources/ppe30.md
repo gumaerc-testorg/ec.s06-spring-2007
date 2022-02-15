@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Blue clippers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/56a6bfa034519890d4a57e9b664daff6_ppe30.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/56a6bfa034519890d4a57e9b664daff6_ppe30.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Class Trip
+parent_type: CourseSection
 resourcetype: Image
 title: ppe30.jpg
 uid: 56a6bfa0-3451-9890-d4a5-7e9b664daff6

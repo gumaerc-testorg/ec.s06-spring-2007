@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Class Trip
+parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 title: Mine Risk Education (MRE) Materials
 uid: fa03ac7e-6a1e-5046-0eef-1cbdb6fb4e6c
 ---
 
 This section features pictures of the class trip to the Humanitarian Demining Training Center at Ft. Leonard Wood, MO, on February 25, 2005. All photos appear courtesy of the following course staff and students; Benjamin Linder, Andrew Heafitz, Andrew Brooks, Rosalind Takata, Helen Tsai, and Aron Zingman, and are used with permission.
-{{< image-gallery id="fa03ac7e-6a1e-5046-0eef-1cbdb6fb4e6c_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/" >}}
+{{< image-gallery id="fa03ac7e-6a1e-5046-0eef-1cbdb6fb4e6c_nanogallery2" baseUrl="/courses/ec-s06-design-for-demining-spring-2007/" >}}
 {{< image-gallery-item href="1bd3e8f0dcb57da2fe262fac77403606_mre01.jpg" data-ngdesc="Mine Risk Education (MRE) materials." text="Mine Risk Education (MRE) materials." >}}
 {{< image-gallery-item href="6b2c8283b0dba4546f9eb4618f05807f_mre02.jpg" data-ngdesc="MRE materials." text="MRE materials." >}}
 {{< image-gallery-item href="b41b16fff14249c133c6efb4a5a8de22_mre03.jpg" data-ngdesc="MRE materials." text="MRE materials." >}}

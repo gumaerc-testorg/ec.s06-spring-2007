@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'MRE materials. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/8a1a7696f6eb4b2c45a8981f7225b7c8_mre05.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/8a1a7696f6eb4b2c45a8981f7225b7c8_mre05.jpg
 file_type: image/jpeg
 image_metadata:
   caption: MRE materials.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'MRE materials. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Mine Risk Education (MRE) Materials
+parent_type: CourseSection
 resourcetype: Image
 title: mre05.jpg
 uid: 8a1a7696-f6eb-4b2c-45a8-981f7225b7c8

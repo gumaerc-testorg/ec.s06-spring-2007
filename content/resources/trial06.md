@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Demining gear.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/ff53ee745f247071d837e92a1ad3f375_trial06.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/ff53ee745f247071d837e92a1ad3f375_trial06.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Class Trip
+parent_type: CourseSection
 resourcetype: Image
 title: trial06.jpg
 uid: ff53ee74-5f24-7071-d837-e92a1ad3f375

@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Class Trip
+parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 title: Display Mines
 uid: 076f9ba4-6fcb-8cbe-992c-b25e9e05fa8a
 ---
 
 This section features pictures and videos of the class trips to the Humanitarian Demining Training Center at Ft. Leonard Wood, MO, taken in the Spring of 2005. A similar trip was part of the 2007 class.
-{{< image-gallery id="076f9ba4-6fcb-8cbe-992c-b25e9e05fa8a_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/" >}}
+{{< image-gallery id="076f9ba4-6fcb-8cbe-992c-b25e9e05fa8a_nanogallery2" baseUrl="/courses/ec-s06-design-for-demining-spring-2007/" >}}
 {{< image-gallery-item href="418132804e22d04c0a50a58548f2f7f8_disp01.jpg" data-ngdesc="Claymore mine." text="Claymore mine." >}}
 {{< image-gallery-item href="d20b7a4b6ca1b9a6bf9d1d990f79cd85_disp02.jpg" data-ngdesc="Claymore mine." text="Claymore mine." >}}
 {{< image-gallery-item href="2dffaef923df2110d07caa26603330b8_disp03.jpg" data-ngdesc="Claymore mine." text="Claymore mine." >}}

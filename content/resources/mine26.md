@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Weathered mine. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/9c7e0c9961754064368b66ff18b976ce_mine26.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/9c7e0c9961754064368b66ff18b976ce_mine26.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Weathered mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Weathered mine. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Mines in the Ground
+parent_type: CourseSection
 resourcetype: Image
 title: mine26.jpg
 uid: 9c7e0c99-6175-4064-368b-66ff18b976ce

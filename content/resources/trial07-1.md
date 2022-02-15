@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Student performing manual prong search. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/63000ac10a447762c7df4c2c24f98b76_trial07.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/63000ac10a447762c7df4c2c24f98b76_trial07.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Student performing manual prong search.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Student performing manual prong search. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Manual Demining Trial
+parent_type: CourseSection
 resourcetype: Image
 title: trial07.jpg
 uid: 63000ac1-0a44-7762-c7df-4c2c24f98b76

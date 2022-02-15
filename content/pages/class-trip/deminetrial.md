@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Class Trip
+parent_type: CourseSection
 parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 title: Manual Demining Trial
 uid: 674a24dd-0288-6dc8-72f2-b090037b522b
 ---
 
 This section features pictures of the class trip to the Humanitarian Demining Training Center at Ft. Leonard Wood, MO, on February 25, 2005. All photos appear courtesy of the following course staff and students; Benjamin Linder, Andrew Heafitz, Andrew Brooks, Rosalind Takata, Helen Tsai, and Aron Zingman, and are used with permission.
-{{< image-gallery id="674a24dd-0288-6dc8-72f2-b090037b522b_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/" >}}
+{{< image-gallery id="674a24dd-0288-6dc8-72f2-b090037b522b_nanogallery2" baseUrl="/courses/ec-s06-design-for-demining-spring-2007/" >}}
 {{< image-gallery-item href="01337e878be785b3a3adda5bf180b6c6_trial01.jpg" data-ngdesc="Ben." text="Ben." >}}
 {{< image-gallery-item href="693ceb6402ffbe9a3f644338b4d7c1ad_trial02.jpg" data-ngdesc="Andrew." text="Andrew." >}}
 {{< image-gallery-item href="8e0d6aa6afb87d4511e9cfcd8c0477e7_trial03.jpg" data-ngdesc="MIT class at the manual demining demonstration." text="MIT class at the manual demining demonstration." >}}

@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Cambodia marking system. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/d49e7e09f68c507c66186aa128181983_lane03.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/d49e7e09f68c507c66186aa128181983_lane03.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Cambodia marking system.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Cambodia marking system. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lane Markings
+parent_type: CourseSection
 resourcetype: Image
 title: lane03.jpg
 uid: d49e7e09-f68c-507c-6618-6aa128181983

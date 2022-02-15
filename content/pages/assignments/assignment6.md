@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 982a0b97-ecf7-969c-8006-d3ad694edfc1
 title: Assignment 6 - Opportunity and Ideas
 uid: f65105cf-51ef-42ee-067b-4f72f635629b

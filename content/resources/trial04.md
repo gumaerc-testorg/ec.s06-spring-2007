@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: MIT class learning manual demining techniques.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/4ae9c1cf2d509ba05cafd59b3ebcd7c0_trial04.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/4ae9c1cf2d509ba05cafd59b3ebcd7c0_trial04.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Class Trip
+parent_type: CourseSection
 resourcetype: Image
 title: trial04.jpg
 uid: 4ae9c1cf-2d50-9ba0-5caf-d59b3ebcd7c0

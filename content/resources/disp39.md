@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Underground view of buried mines. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/f10956c3b4203fd47a6086c96a13069a_disp39.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/f10956c3b4203fd47a6086c96a13069a_disp39.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Underground view of buried mines.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Underground view of buried mines. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Display Mines
+parent_type: CourseSection
 resourcetype: Image
 title: disp39.jpg
 uid: f10956c3-b420-3fd4-7a60-86c96a13069a

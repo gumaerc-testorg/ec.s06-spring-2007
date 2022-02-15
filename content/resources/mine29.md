@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Unexploded ordenance (UXO). '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/ba8c1730a876876d1c75de8d61465e9d_mine29.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/ba8c1730a876876d1c75de8d61465e9d_mine29.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Unexploded ordenance (UXO).
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Unexploded ordenance (UXO). '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Mines in the Ground
+parent_type: CourseSection
 resourcetype: Image
 title: mine29.jpg
 uid: ba8c1730-a876-876d-1c75-de8d61465e9d

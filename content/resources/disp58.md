@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Submunitions. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/1eb006adf390e516586a457731844426_disp58.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/1eb006adf390e516586a457731844426_disp58.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Submunitions.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Submunitions. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Display Mines
+parent_type: CourseSection
 resourcetype: Image
 title: disp58.jpg
 uid: 1eb006ad-f390-e516-586a-457731844426

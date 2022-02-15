@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Operator controlling the mini flail. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/e7cf0730c26155fbc5bf761d4fd96308_flail05.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/e7cf0730c26155fbc5bf761d4fd96308_flail05.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Operator controlling the mini flail.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Operator controlling the mini flail. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Flail Used for Vegetation Clearance
+parent_type: CourseSection
 resourcetype: Image
 title: flail05.jpg
 uid: e7cf0730-c261-55fb-c5bf-761d4fd96308

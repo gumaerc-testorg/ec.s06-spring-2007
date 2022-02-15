@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Class Trip
 uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 ---

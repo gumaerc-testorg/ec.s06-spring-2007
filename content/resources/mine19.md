@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Close up of a demolition wired mortar. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/0b317e9c949f82bbce87aaa39c5d2fd8_mine19.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/0b317e9c949f82bbce87aaa39c5d2fd8_mine19.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Close up of a demolition wired mortar.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Close up of a demolition wired mortar. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Mines in the Ground
+parent_type: CourseSection
 resourcetype: Image
 title: mine19.jpg
 uid: 0b317e9c-949f-82bb-ce87-aaa39c5d2fd8

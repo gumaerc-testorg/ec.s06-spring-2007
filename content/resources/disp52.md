@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'TM-57 mine. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/8ec74c4205483a4c9b0851b67f33cc92_disp52.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/8ec74c4205483a4c9b0851b67f33cc92_disp52.jpg
 file_type: image/jpeg
 image_metadata:
   caption: TM-57 mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'TM-57 mine. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Display Mines
+parent_type: CourseSection
 resourcetype: Image
 title: disp52.jpg
 uid: 8ec74c42-0548-3a4c-9b08-51b67f33cc92

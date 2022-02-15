@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Digging a hole. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/5eb799be3dc029274135d1abc59066b2_demo09.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/5eb799be3dc029274135d1abc59066b2_demo09.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Digging a hole.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Digging a hole. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Manual Demining Demonstration
+parent_type: CourseSection
 resourcetype: Image
 title: demo09.jpg
 uid: 5eb799be-3dc0-2927-4135-d1abc59066b2

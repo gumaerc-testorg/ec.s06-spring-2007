@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'AP shoe mines. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s06-design-for-demining-spring-2007/d17e41abf5288f8b553b063400e83b20_disp19.jpg
+file: /media/courses/ec-s06-design-for-demining-spring-2007/d17e41abf5288f8b553b063400e83b20_disp19.jpg
 file_type: image/jpeg
 image_metadata:
   caption: AP shoe mines.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'AP shoe mines. '
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Display Mines
+parent_type: CourseSection
 resourcetype: Image
 title: disp19.jpg
 uid: d17e41ab-f528-8f8b-553b-063400e83b20

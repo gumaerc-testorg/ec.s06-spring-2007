@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
+parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 resourcetype: Image
 title: ppe15.jpg
 uid: cf81e3a7-8073-9b4d-87c3-84fd591372ab

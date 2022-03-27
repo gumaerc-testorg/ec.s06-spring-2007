@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79bafbf9-2c3f-7e5c-e6a4-880d051ebcff
 resourcetype: Document
 title: Farming Minefields
 uid: 0b8e4d8b-8889-fe0f-c060-37b00372c99b

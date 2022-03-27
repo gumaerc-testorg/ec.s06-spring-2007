@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Display Mines
 parent_type: CourseSection
+parent_uid: 076f9ba4-6fcb-8cbe-992c-b25e9e05fa8a
 resourcetype: Image
 title: disp31.jpg
 uid: 3c2a6ba1-d6bc-93cc-fc6f-447ca5e2a723

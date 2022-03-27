@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Flail Used for Vegetation Clearance
 parent_type: CourseSection
+parent_uid: 4ecf4df7-6b06-3a4a-c029-4b4bf5c3d7c3
 resourcetype: Image
 title: flail06.jpg
 uid: 17730a83-05ca-e080-fb86-3dd5c2e8c974

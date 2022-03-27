@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
+parent_uid: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
 resourcetype: Image
 title: mittool01.jpg
 uid: 7a7d68b6-6136-5c19-32ef-a5761dbfd7b5

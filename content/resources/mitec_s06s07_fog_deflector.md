@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b734711-b219-a796-3345-ccd1582fdb0f
 resourcetype: Document
 title: Fog Deflectors
 uid: bddf7a9d-1339-2fd4-a43a-ccbc69d930f3

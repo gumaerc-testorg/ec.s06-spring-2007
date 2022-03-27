@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b734711-b219-a796-3345-ccd1582fdb0f
 resourcetype: Document
 title: Final Report Cards
 uid: d6d38b7d-d4df-984a-5c10-1ddbeb30999c

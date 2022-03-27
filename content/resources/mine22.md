@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Mines in the Ground
 parent_type: CourseSection
+parent_uid: e43b56e1-0b3c-8b54-f1a2-14e7d37158ad
 resourcetype: Image
 title: mine22.jpg
 uid: cb5b591a-1143-72b7-2152-3a7eaac8e04f

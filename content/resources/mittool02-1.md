@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: MIT Tools Trial
 parent_type: CourseSection
+parent_uid: f04f6df7-0e0b-7044-0df8-fa2903258a3d
 resourcetype: Image
 title: mittool02.jpg
 uid: da1b6412-e4be-818c-f6f9-7a15f71631f2

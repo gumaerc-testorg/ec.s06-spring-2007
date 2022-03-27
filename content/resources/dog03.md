@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Demining Dogs
 parent_type: CourseSection
+parent_uid: 365f406c-0d6d-ec99-e818-1406422dd124
 resourcetype: Image
 title: dog03.jpg
 uid: 70ef3889-1099-ccc7-7dc7-42023c201fe7

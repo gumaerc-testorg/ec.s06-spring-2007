@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79bafbf9-2c3f-7e5c-e6a4-880d051ebcff
 resourcetype: Document
 title: Understanding Landmines and Mine Action
 uid: 5a0b4f3a-e5cc-6828-80d4-cab176e29381

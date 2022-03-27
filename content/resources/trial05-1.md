@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Manual Demining Trial
 parent_type: CourseSection
+parent_uid: 674a24dd-0288-6dc8-72f2-b090037b522b
 resourcetype: Image
 title: trial05.jpg
 uid: e3f560fe-3f20-33f2-3566-aa89cc38d513

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 982a0b97-ecf7-969c-8006-d3ad694edfc1
 resourcetype: Document
 title: Sample Report
 uid: 334425b7-9afa-114c-5d9f-4e04586370c9

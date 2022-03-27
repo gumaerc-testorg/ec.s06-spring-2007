@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 79bafbf9-2c3f-7e5c-e6a4-880d051ebcff
 resourcetype: Document
 title: Technical Proposal Rapid Technical Surveys by Roger Hess
 uid: f708ef6a-94c7-2ee4-c3e3-6e7eef482491

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 982a0b97-ecf7-969c-8006-d3ad694edfc1
 resourcetype: Document
 title: Report Template
 uid: 69f38ba3-55b8-6265-b24a-20774279f412

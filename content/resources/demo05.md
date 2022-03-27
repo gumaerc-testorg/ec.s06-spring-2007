@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Manual Demining Demonstration
 parent_type: CourseSection
+parent_uid: 36c36390-e376-b66e-00b7-51bea8f55721
 resourcetype: Image
 title: demo05.jpg
 uid: ec64407c-2cb3-8ff0-85e3-6f9b78579117

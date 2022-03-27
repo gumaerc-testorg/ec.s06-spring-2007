@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Mine Risk Education (MRE) Materials
 parent_type: CourseSection
+parent_uid: fa03ac7e-6a1e-5046-0eef-1cbdb6fb4e6c
 resourcetype: Image
 title: mre09.jpg
 uid: e530f43f-f90f-d0ac-a0f7-a157ade3e132

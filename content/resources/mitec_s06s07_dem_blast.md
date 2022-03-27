@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b734711-b219-a796-3345-ccd1582fdb0f
 resourcetype: Document
 title: Blast Testing Debrief
 uid: f5d9f864-3326-a559-fc9f-899d23746115

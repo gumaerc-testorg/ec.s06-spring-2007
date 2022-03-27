@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7b734711-b219-a796-3345-ccd1582fdb0f
 resourcetype: Document
 title: Angle Controlled Prodding
 uid: b15035a5-71df-732a-98e3-498bd12ac200

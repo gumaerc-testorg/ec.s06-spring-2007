@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lane Markings
 parent_type: CourseSection
+parent_uid: 18b2b4c6-0d05-38f6-47cf-2a411f9c125e
 resourcetype: Image
 title: lane02.jpg
 uid: c348335e-196c-39b4-35b3-e77927e13a9d

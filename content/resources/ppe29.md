@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Orange clippers.
-file: /media/courses/ec-s06-design-for-demining-spring-2007/ebfd602a05077e62fb42d9f4c4a5f0cf_ppe29.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/ebfd602a05077e62fb42d9f4c4a5f0cf_ppe29.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -16,3 +16,5 @@ resourcetype: Image
 title: ppe29.jpg
 uid: ebfd602a-0507-7e62-fb42-d9f4c4a5f0cf
 ---
+Orange clippers.
+

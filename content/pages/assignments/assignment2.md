@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Instructions for an assignment on demining technologies and processes.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

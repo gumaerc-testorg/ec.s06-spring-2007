@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Large unknown mine. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/b5fd785486daa7526469e1533f85b59a_disp56.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/b5fd785486daa7526469e1533f85b59a_disp56.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Large unknown mine.
@@ -16,3 +16,5 @@ resourcetype: Image
 title: disp56.jpg
 uid: b5fd7854-86da-a752-6469-e1533f85b59a
 ---
+Large unknown mine. 
+

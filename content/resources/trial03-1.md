@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'MIT class at the manual demining demonstration. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/8e0d6aa6afb87d4511e9cfcd8c0477e7_trial03.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/8e0d6aa6afb87d4511e9cfcd8c0477e7_trial03.jpg
 file_type: image/jpeg
 image_metadata:
   caption: MIT class at the manual demining demonstration.
@@ -16,3 +16,5 @@ resourcetype: Image
 title: trial03.jpg
 uid: 8e0d6aa6-afb8-7d45-11e9-cfcd8c0477e7
 ---
+MIT class at the manual demining demonstration. 
+

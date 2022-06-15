@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about grading, intellectual property considerations, and the schedule of lecture
+  topics and assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -88,7 +91,7 @@ Instructors use the marks obtained by a student and their discretion to determin
 
 Discretionary considerations include attention to personal development, ethical practice, respect for others, active involvement with your work and recognition of design ability not reflected in the assessment marks given out.
 
-Assignments are available in the [assignments]({{< baseurl >}}/pages/assignments) section.
+Assignments are available in the {{% resource_link 982a0b97-ecf7-969c-8006-d3ad694edfc1 "assignments" %}} section.
 
 Intellectual Property Considerations
 ------------------------------------

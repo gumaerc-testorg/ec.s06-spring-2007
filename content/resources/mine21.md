@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Hidden mine. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/4c403a4dd3ddff12faff2009eaa40e9a_mine21.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/4c403a4dd3ddff12faff2009eaa40e9a_mine21.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Hidden mine.
@@ -16,3 +16,5 @@ resourcetype: Image
 title: mine21.jpg
 uid: 4c403a4d-d3dd-ff12-faff-2009eaa40e9a
 ---
+Hidden mine. 
+

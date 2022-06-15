@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: 'This section features pictures and videos of the class trips to the
+  Humanitarian Demining Training Center at Ft. Leonard Wood, MO, taken in the Spring
+  of 2005. A similar trip was part of the 2007 class.  All photos and videos appear
+  courtesy of the following course staff and students: Benjamin Linder, Andrew Heafitz,
+  Andrew Brooks, Rosalind Takata, Helen Tsai, and Aron Zingman, and are used with
+  permission.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Class Trip
@@ -13,23 +19,23 @@ All photos and videos appear courtesy of the following course staff and students
 Pictures
 --------
 
-[Display Mines]({{< baseurl >}}/pages/class-trip/dismines)
+{{% resource_link 076f9ba4-6fcb-8cbe-992c-b25e9e05fa8a "Display Mines" %}}
 
-[Mine Risk Education (MRE) Materials]({{< baseurl >}}/pages/class-trip/minerisk)
+{{% resource_link fa03ac7e-6a1e-5046-0eef-1cbdb6fb4e6c "Mine Risk Education (MRE) Materials" %}}
 
-[Mines in the Ground]({{< baseurl >}}/pages/class-trip/mineground)
+{{% resource_link e43b56e1-0b3c-8b54-f1a2-14e7d37158ad "Mines in the Ground" %}}
 
-[Lane Markings]({{< baseurl >}}/pages/class-trip/lanemark)
+{{% resource_link 18b2b4c6-0d05-38f6-47cf-2a411f9c125e "Lane Markings" %}}
 
-[Demining Dogs]({{< baseurl >}}/pages/class-trip/deminedog)
+{{% resource_link 365f406c-0d6d-ec99-e818-1406422dd124 "Demining Dogs" %}}
 
-[Flail Used for Vegetation Clearance]({{< baseurl >}}/pages/class-trip/flail)
+{{% resource_link 4ecf4df7-6b06-3a4a-c029-4b4bf5c3d7c3 "Flail Used for Vegetation Clearance" %}}
 
-[Manual Demining Demonstration]({{< baseurl >}}/pages/class-trip/deminedemo)
+{{% resource_link 36c36390-e376-b66e-00b7-51bea8f55721 "Manual Demining Demonstration" %}}
 
-[Manual Demining Trial]({{< baseurl >}}/pages/class-trip/deminetrial)
+{{% resource_link 674a24dd-0288-6dc8-72f2-b090037b522b "Manual Demining Trial" %}}
 
-[MIT Tools Trial]({{< baseurl >}}/pages/class-trip/mittools)
+{{% resource_link f04f6df7-0e0b-7044-0df8-fa2903258a3d "MIT Tools Trial" %}}
 
 Videos
 ------

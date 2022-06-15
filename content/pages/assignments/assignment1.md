@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment on ideas to address
+  the landmine problem.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

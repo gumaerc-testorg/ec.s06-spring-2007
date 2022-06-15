@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Anti-personnel (AP) mines. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/395303700d0a66ece7ef5a6376429e99_disp14.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/395303700d0a66ece7ef5a6376429e99_disp14.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Anti-personnel (AP) mines.
@@ -16,3 +16,5 @@ resourcetype: Image
 title: disp14.jpg
 uid: 39530370-0d0a-66ec-e7ef-5a6376429e99
 ---
+Anti-personnel (AP) mines. 
+

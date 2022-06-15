@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Assignment to write a problem statement for the course project, document
+  deliverables, identify a champion for the project, and identify two or more experts
+  associated with the problem area.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

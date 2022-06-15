@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'M93 Hornet mine. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/d0dd7294034d5f652ded0effff8e6709_disp50.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/d0dd7294034d5f652ded0effff8e6709_disp50.jpg
 file_type: image/jpeg
 image_metadata:
   caption: M93 Hornet mine.
@@ -16,3 +16,5 @@ resourcetype: Image
 title: disp50.jpg
 uid: d0dd7294-034d-5f65-2ded-0effff8e6709
 ---
+M93 Hornet mine. 
+

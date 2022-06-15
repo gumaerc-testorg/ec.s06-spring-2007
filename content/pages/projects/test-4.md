@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -41,7 +42,7 @@ REPORTS
 Rosalind Takata, "Landmine Awareness Card Deck"
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_s06s07_card_deck))
+({{% resource_link d6d38b7d-d4df-984a-5c10-1ddbeb30999c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +51,7 @@ Rosalind Takata, "Landmine Awareness Card Deck"
 Smitha Raghunathan and Helen Tsai, "MagRake"
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_s06s07_mag_rake))
+({{% resource_link e2ea83ed-0714-bdb3-d961-33a0bfd3977f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +60,7 @@ Smitha Raghunathan and Helen Tsai, "MagRake"
 Aron Zingman, Rosalind Takata, and Katherine Rorschach, "MIT Pick Prod"
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_s06s07_mit_pick))
+({{% resource_link 9a5bc849-5061-15b0-1d95-2b7270ec0db3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +69,7 @@ Aron Zingman, Rosalind Takata, and Katherine Rorschach, "MIT Pick Prod"
 Smitha Raghunathan and Helen Tsai, "Angle and Force Controlled Prodding"
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitec_s06s07_angle_ctrl))
+({{% resource_link b15035a5-71df-732a-98e3-498bd12ac200 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

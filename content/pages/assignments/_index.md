@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information about the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,7 +34,7 @@ Assignments
 Mines and mined areas
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 1 - Understanding landmines]({{< baseurl >}}/pages/assignments/assignment1)
+{{% resource_link 4363b9f0-d57b-d6ca-2cf3-314f10f0a3a4 "Assignment 1 - Understanding landmines" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Mines and mined areas
 Demining technologies
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 2 - Technologies and processes]({{< baseurl >}}/pages/assignments/assignment2)
+{{% resource_link fb1ca99e-c475-e13d-338e-8daf61799051 "Assignment 2 - Technologies and processes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ Demining technologies
 Demining processes
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 3 - Trip signup]({{< baseurl >}}/pages/assignments/assignment3)
+{{% resource_link 9a60fe26-87de-9e39-bea4-f56c2e67abd0 "Assignment 3 - Trip signup" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,9 +72,9 @@ Accidents
 {{< tdopen >}}
 
 
-[Assignment 4 - Accidents]({{< baseurl >}}/pages/assignments/assignment4)
+{{% resource_link 1c32cac1-dcf3-7fec-62e2-5608ccb602d0 "Assignment 4 - Accidents" %}}
 
-[Assignment 5 - Community]({{< baseurl >}}/pages/assignments/assignment5)
+{{% resource_link 05a916ea-81c0-55b7-c951-8a8f09b5af60 "Assignment 5 - Community" %}}
 
 
 {{< tdclose >}}
@@ -87,7 +88,7 @@ Accidents
 Community
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 6 - Opportunity and ideas]({{< baseurl >}}/pages/assignments/assignment6)
+{{% resource_link f65105cf-51ef-42ee-067b-4f72f635629b "Assignment 6 - Opportunity and ideas" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ Community
 Needs and ideas
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 8 - Trip]({{< baseurl >}}/pages/assignments/assignment8)
+{{% resource_link 6c5108d9-e887-7cd1-4ec8-b1cecef9ad7f "Assignment 8 - Trip" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +112,7 @@ Needs and ideas
 Customer contacts
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 9 - Project criteria]({{< baseurl >}}/pages/assignments/assignment9)
+{{% resource_link 26d9855d-dd0b-eae0-778a-8d4243bb2f78 "Assignment 9 - Project criteria" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +124,7 @@ Customer contacts
 Manufacturing
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 10 - Project plan]({{< baseurl >}}/pages/assignments/assignment10)
+{{% resource_link d34d1113-b608-af2f-a366-47678352a9ba "Assignment 10 - Project plan" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +136,7 @@ Manufacturing
 Financing
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 11 - Hard questions]({{< baseurl >}}/pages/assignments/assignment11)
+{{% resource_link 85a1a55a-be3a-ab16-16b8-ef2c199f8f60 "Assignment 11 - Hard questions" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +148,7 @@ Financing
 Project work
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 12 - Design review one]({{< baseurl >}}/pages/assignments/assignment12)
+{{% resource_link 3dc27653-e1c4-3f26-c113-c88b7e3556e6 "Assignment 12 - Design review one" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +160,7 @@ Project work
 Project work (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 13 - Design review two]({{< baseurl >}}/pages/assignments/assignment13)
+{{% resource_link 31213c76-6c81-a21d-0dd4-ab2618436fdf "Assignment 13 - Design review two" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +172,7 @@ Project work (cont.)
 Project report due
 {{< tdclose >}}
 {{< tdopen >}}
-[Assignment 14 - Final report]({{< baseurl >}}/pages/assignments/assignment14)
+{{% resource_link 50060881-9ea2-8528-2c8a-8143174c9ad3 "Assignment 14 - Final report" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

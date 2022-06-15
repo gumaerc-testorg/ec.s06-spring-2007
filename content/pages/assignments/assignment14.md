@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -16,4 +17,4 @@ Due: 4 days after Ses #27
 Final Report
 ------------
 
-Write a final report describing your project following the guidelines given in the report template ([PDF]({{< baseurl >}}/resources/mitec_s06s07_14template)). See the example report ([PDF]({{< baseurl >}}/resources/mitec_s06s07_14sample_repo)) on the clippers for more guidance. Use the report template to create your report.
+Write a final report describing your project following the guidelines given in the report template ({{% resource_link 69f38ba3-55b8-6265-b24a-20774279f412 "PDF" %}}). See the example report ({{% resource_link 334425b7-9afa-114c-5d9f-4e04586370c9 "PDF" %}}) on the clippers for more guidance. Use the report template to create your report.

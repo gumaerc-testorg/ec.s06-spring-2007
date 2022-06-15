@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Instructions for an assignment to identify unmet needs in the demining
+  community and propose ideas to meet those needs.  '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Anti-handling devices. '
-file: /media/courses/ec-s06-design-for-demining-spring-2007/9596c9166850573a8a09ae29f3894355_disp13.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/9596c9166850573a8a09ae29f3894355_disp13.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Anti-handling devices.
@@ -16,3 +16,5 @@ resourcetype: Image
 title: disp13.jpg
 uid: 9596c916-6850-573a-8a09-ae29f3894355
 ---
+Anti-handling devices. 
+

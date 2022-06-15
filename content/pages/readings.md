@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information about assigned readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ Read "[A Fresh Approach to Road Clearance Operations](http://maic.jmu.edu/journa
 
 Read any three articles in [Issue 7.3 of the Journal of Mine Action](http://maic.jmu.edu/journal/7.3/index.htm).
 
-Review the manual demining process in Bob Keeley's paper, "Understanding Landmines and Mine Action", previously assigned. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.4 MB](http://web.mit.edu/demining/assignments/understanding-landmines.pdf))
+Review the manual demining process in Bob Keeley's paper, "Understanding Landmines and Mine Action", previously assigned. ([PDF - 1.4 MB](http://web.mit.edu/demining/assignments/understanding-landmines.pdf))
 
 Read through the 10 presentations that are part of "[Introducing Demining](https://www.nolandmines.com/introducing%20demining.html)" by Andy Smith.
 
@@ -82,9 +83,9 @@ Read the JMA paper "[First Person: Deminers' Stories](http://maic.jmu.edu/journa
 
 Read the JMA paper "[How Product Design Can Improve Manual Demining](http://maic.jmu.edu/journal/7.1/focus/ilsoy/ilsoy.htm)" by Anders Ilsøy.
 
-Read the paper "Farming Minefields" by Trevelyan, et al. ([PDF]({{< baseurl >}}/resources/mitec_s06s07_06farmi)) (Courtesy of James Trevelyan. Used with permission.)
+Read the paper "Farming Minefields" by Trevelyan, et al. ({{% resource_link 0b8e4d8b-8889-fe0f-c060-37b00372c99b "PDF" %}}) (Courtesy of James Trevelyan. Used with permission.)
 
-Read the technical proposal Rapid Technical Surveys by Roger Hess. ([PDF]({{< baseurl >}}/resources/mitec_s06s07_06draft)) (Courtesy of Roger Hess. Used with permission.)
+Read the technical proposal Rapid Technical Surveys by Roger Hess. ({{% resource_link f708ef6a-94c7-2ee4-c3e3-6e7eef482491 "PDF" %}}) (Courtesy of Roger Hess. Used with permission.)
 
 The reading will help you think more broadly about opportunities and ideas that could be addressed.
 

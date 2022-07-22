@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'US M46 mine. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Display Mines
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: disp53.jpg
 uid: 44705c30-17f2-a9c3-51e0-91d0ca8f3236
 ---
 US M46 mine. 
-

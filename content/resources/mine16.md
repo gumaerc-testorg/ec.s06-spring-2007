@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: Demolition wired stake mine.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Mines in the Ground
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mine16.jpg
 uid: beb3d733-d2d5-5cae-8c96-7b5b3d8457b7
 ---
 Demolition wired stake mine.
-

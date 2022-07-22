@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mittool06.jpg
 uid: fa08e7de-9f32-2160-1568-8f4d06f8aee9
 ---
 Student testing out MIT pick prod.
-

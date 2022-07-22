@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: ppe23.jpg
 uid: 91866802-de62-c3ab-be81-7f29d0549780
 ---
 Deminers tool set illustration.
-

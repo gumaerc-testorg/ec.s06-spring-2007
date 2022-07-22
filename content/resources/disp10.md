@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Fuzes. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Display Mines
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: disp10.jpg
 uid: 1b5d740d-0f6b-17d4-c259-bcc30fa27327
 ---
 Fuzes. 
-

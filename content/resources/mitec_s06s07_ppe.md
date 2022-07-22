@@ -6,6 +6,7 @@ file: /courses/ec-s06-design-for-demining-spring-2007/09827333be89123b7f4b329d50
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Personal Protection Equipment
 uid: 09827333-be89-123b-7f4b-329d50fbba06
 ---
 This is a resource file that contains information regarding personal protection equipment.
-

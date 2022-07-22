@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: Claymore mine.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Display Mines
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: disp02.jpg
 uid: d20b7a4b-6ca1-b9a6-bf9d-1d990f79cd85
 ---
 Claymore mine.
-

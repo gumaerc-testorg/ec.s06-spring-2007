@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: ppe26.jpg
 uid: cb20e658-85b3-23fb-c38c-7efb9be022aa
 ---
 Basic demining tool kit.
-

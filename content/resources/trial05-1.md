@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'MIT class trying out manual demining techniques. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Manual Demining Trial
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: trial05.jpg
 uid: e3f560fe-3f20-33f2-3566-aa89cc38d513
 ---
 MIT class trying out manual demining techniques. 
-

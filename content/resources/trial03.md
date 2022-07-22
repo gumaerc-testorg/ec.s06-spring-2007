@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: trial03.jpg
 uid: dcab8121-bca8-1beb-cd00-44a9150a6044
 ---
 MIT class at the manual demining demonstration.
-

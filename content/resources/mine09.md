@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Mine. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Mines in the Ground
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mine09.jpg
 uid: b7115294-5fb8-cc57-e369-bb30e4077227
 ---
 Mine. 
-

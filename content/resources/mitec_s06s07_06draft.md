@@ -6,6 +6,7 @@ file: /courses/ec-s06-design-for-demining-spring-2007/f708ef6a94c72ee4c3e36e7eef
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Technical Proposal Rapid Technical Surveys by Roger Hess
 uid: f708ef6a-94c7-2ee4-c3e3-6e7eef482491
 ---
 This is a resource file that contains information regarding technical proposal.
-

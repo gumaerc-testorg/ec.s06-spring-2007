@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Handling a weathered mine. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Manual Demining Demonstration
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: demo08.jpg
 uid: 99f43dd5-d723-a11a-099c-6a2f9799fa3c
 ---
 Handling a weathered mine. 
-

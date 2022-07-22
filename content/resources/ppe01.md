@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: ppe01.jpg
 uid: 5f4f7cb7-d8dd-7673-edd5-ba36deca79b6
 ---
 Personal Protective Equipment (PPE).
-

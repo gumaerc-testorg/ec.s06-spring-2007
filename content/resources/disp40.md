@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Underground view of buried mines. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Display Mines
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: disp40.jpg
 uid: f0935804-6403-479e-46f2-85b8b52e7f8f
 ---
 Underground view of buried mines. 
-

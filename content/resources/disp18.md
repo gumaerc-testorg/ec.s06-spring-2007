@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Fragment. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Display Mines
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: disp18.jpg
 uid: a7665fba-b398-476a-8109-7b897c812d9d
 ---
 Fragment. 
-

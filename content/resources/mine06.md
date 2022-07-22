@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Buried mine. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Mines in the Ground
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mine06.jpg
 uid: f3066d89-6b66-42cd-f7eb-fdf4fdd4cf1a
 ---
 Buried mine. 
-

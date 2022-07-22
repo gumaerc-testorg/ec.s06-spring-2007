@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Anti-tank (AT) mine cutaway. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Display Mines
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: disp05.jpg
 uid: b67f3283-9839-a9b5-4a84-faeb167e9d5d
 ---
 Anti-tank (AT) mine cutaway. 
-

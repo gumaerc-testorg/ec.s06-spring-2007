@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Improvised explosive devices (IEDs). '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Display Mines
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: disp24.jpg
 uid: b7fc4b5b-32eb-4d9d-5c64-4741e3110e38
 ---
 Improvised explosive devices (IEDs). 
-

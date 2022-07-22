@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Mini flail tracks. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Flail Used for Vegetation Clearance
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: flail15.jpg
 uid: 6c52edbc-8474-5d0b-8a88-c5f38b20e044
 ---
 Mini flail tracks. 
-

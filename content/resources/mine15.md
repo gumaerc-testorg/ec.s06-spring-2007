@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Close up of an emplaced AT mine. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Mines in the Ground
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mine15.jpg
 uid: 042dbe9c-f404-e041-d4b1-1fbe829b5e6a
 ---
 Close up of an emplaced AT mine. 
-

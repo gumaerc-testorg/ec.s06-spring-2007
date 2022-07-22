@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Mini flail model number. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Flail Used for Vegetation Clearance
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: flail14.jpg
 uid: 1ad8b194-64bb-e56b-60fb-8343ea7c8cae
 ---
 Mini flail model number. 
-

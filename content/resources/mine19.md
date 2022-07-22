@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Close up of a demolition wired mortar. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Mines in the Ground
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mine19.jpg
 uid: 0b317e9c-949f-82bb-ce87-aaa39c5d2fd8
 ---
 Close up of a demolition wired mortar. 
-

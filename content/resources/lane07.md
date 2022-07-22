@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Marker. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lane Markings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lane07.jpg
 uid: 016e2224-d5b7-e022-1631-3179a30b2301
 ---
 Marker. 
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: trial04.jpg
 uid: 4ae9c1cf-2d50-9ba0-5caf-d59b3ebcd7c0
 ---
 MIT class learning manual demining techniques.
-

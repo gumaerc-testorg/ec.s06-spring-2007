@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: ppe29.jpg
 uid: ebfd602a-0507-7e62-fb42-d9f4c4a5f0cf
 ---
 Orange clippers.
-

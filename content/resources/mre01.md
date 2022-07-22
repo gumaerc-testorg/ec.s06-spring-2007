@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Mine Risk Education (MRE) materials. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Mine Risk Education (MRE) Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mre01.jpg
 uid: 1bd3e8f0-dcb5-7da2-fe26-2fac77403606
 ---
 Mine Risk Education (MRE) materials. 
-

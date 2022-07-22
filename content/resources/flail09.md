@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Mini flail controllers. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Flail Used for Vegetation Clearance
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: flail09.jpg
 uid: b7da3b7e-a098-467e-fcd2-7d25b82417ea
 ---
 Mini flail controllers. 
-

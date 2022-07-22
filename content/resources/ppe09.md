@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: ppe09.jpg
 uid: c4c28564-e16e-d7a1-9859-c2ea1d0936c6
 ---
 Novel foot protection system evaluation board.
-

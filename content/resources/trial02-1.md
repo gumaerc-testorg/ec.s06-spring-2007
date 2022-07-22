@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Andrew. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Manual Demining Trial
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: trial02.jpg
 uid: 693ceb64-02ff-be9a-3f64-4338b4d7c1ad
 ---
 Andrew. 
-

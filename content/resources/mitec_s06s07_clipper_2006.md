@@ -6,6 +6,7 @@ file: /courses/ec-s06-design-for-demining-spring-2007/b5681e8e9f0edb22587c572db4
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Vegetation Clipper
 uid: b5681e8e-9f0e-db22-587c-572db4bd173f
 ---
 This is a resource file that contains information regarding vegetation clipper.
-

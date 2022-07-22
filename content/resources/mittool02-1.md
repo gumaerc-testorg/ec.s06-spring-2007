@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'MIT pick prod trial. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: MIT Tools Trial
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mittool02.jpg
 uid: da1b6412-e4be-818c-f6f9-7a15f71631f2
 ---
 MIT pick prod trial. 
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Mini flail hammers spinning. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Flail Used for Vegetation Clearance
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: flail03.jpg
 uid: 78d6fa3c-4963-d212-5653-10fdbb913654
 ---
 Mini flail hammers spinning. 
-

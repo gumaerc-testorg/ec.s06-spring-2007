@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'MIT class testing MIT tools. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: MIT Tools Trial
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mittool01.jpg
 uid: 1d77c041-1d90-bb5c-0625-7e1f4ea947fd
 ---
 MIT class testing MIT tools. 
-

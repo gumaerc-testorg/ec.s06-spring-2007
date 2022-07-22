@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: "Operator with PlayStation\xAE Controller. "
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Flail Used for Vegetation Clearance
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: flail08.jpg
 uid: 1fccedd2-6641-626a-1fe0-63837eb5b275
 ---
 Operator with PlayStation® Controller. 
-

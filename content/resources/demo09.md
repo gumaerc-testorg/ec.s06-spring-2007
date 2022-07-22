@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Digging a hole. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Manual Demining Demonstration
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: demo09.jpg
 uid: 5eb799be-3dc0-2927-4135-d1abc59066b2
 ---
 Digging a hole. 
-

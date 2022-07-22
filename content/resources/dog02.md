@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Demining dog handlers. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Demining Dogs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: dog02.jpg
 uid: dc7cbb74-f82e-3d40-230a-77f7f9826172
 ---
 Demining dog handlers. 
-

@@ -5,6 +5,7 @@ file: /courses/ec-s06-design-for-demining-spring-2007/0b8e4d8b8889fe0fc06037b003
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Farming Minefields
 uid: 0b8e4d8b-8889-fe0f-c060-37b00372c99b
 ---
 This is a resource file that contains information regarding farming minefields.
-

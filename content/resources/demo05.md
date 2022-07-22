@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Probing. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Manual Demining Demonstration
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: demo05.jpg
 uid: ec64407c-2cb3-8ff0-85e3-6f9b78579117
 ---
 Probing. 
-

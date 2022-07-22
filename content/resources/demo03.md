@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Trip wire feeler. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Manual Demining Demonstration
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: demo03.jpg
 uid: 68d50086-4608-04f6-212b-d04544313500
 ---
 Trip wire feeler. 
-

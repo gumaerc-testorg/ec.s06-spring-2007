@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Cambodia marking system. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lane Markings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lane04.jpg
 uid: 35aeffbe-06f8-0181-5832-01df38d8359d
 ---
 Cambodia marking system. 
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Afghanistan marking system. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lane Markings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lane01.jpg
 uid: fd27191d-47f7-029a-3f98-7526e83d9d2a
 ---
 Afghanistan marking system. 
-

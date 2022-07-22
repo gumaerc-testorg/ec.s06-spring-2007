@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Manual demining demonstration. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Manual Demining Demonstration
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: demo01.jpg
 uid: 5a2815c5-fe13-dea2-8f8a-a8d3bddee4ff
 ---
 Manual demining demonstration. 
-

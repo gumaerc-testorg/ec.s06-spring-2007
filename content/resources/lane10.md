@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Lane markings. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lane Markings
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lane10.jpg
 uid: f6c2e6d8-27c8-a62b-e598-ec9303f8c38b
 ---
 Lane markings. 
-

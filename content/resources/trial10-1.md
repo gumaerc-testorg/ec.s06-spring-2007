@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Student using metal detector. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Manual Demining Trial
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: trial10.jpg
 uid: 9dcc069e-7c9f-664d-4061-567b110ae26b
 ---
 Student using metal detector. 
-

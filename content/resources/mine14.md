@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Emplaced anti-tank (AT) mine. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Mines in the Ground
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mine14.jpg
 uid: 987bf3b2-5580-7046-d4ba-58dd8521ba8c
 ---
 Emplaced anti-tank (AT) mine. 
-

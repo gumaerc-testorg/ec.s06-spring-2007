@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mittool03.jpg
 uid: 2a6b4380-9bcd-18c8-6977-9e3366d3976e
 ---
 Digging a hole with MIT pick prod.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Emplaced Remnant BLU-97 mine. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Mines in the Ground
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mine12.jpg
 uid: 86fe2ac5-1121-deb5-5fb7-4011edd1b036
 ---
 Emplaced Remnant BLU-97 mine. 
-

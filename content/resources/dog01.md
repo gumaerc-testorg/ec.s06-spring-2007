@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'MIT class with demining dogs. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Demining Dogs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: dog01.jpg
 uid: b3e03265-d4a7-41d2-f33f-78df0d6173de
 ---
 MIT class with demining dogs. 
-

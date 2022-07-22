@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Digging a hole in rocky ground. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: MIT Tools Trial
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mittool04.jpg
 uid: f3756bee-98ac-0fab-d763-878eddaa3224
 ---
 Digging a hole in rocky ground. 
-

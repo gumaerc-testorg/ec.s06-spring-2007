@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mittool05.jpg
 uid: efbde7bd-df9c-1ea2-bb0e-cf7e990ed6a4
 ---
 Testing MIT pick prod grip.
-

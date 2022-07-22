@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_demining.jpg
 uid: da7dc2e2-051d-a2ce-2de2-a61baceea049
 ---
 Students in the course and a pair of MIT tools. (Image by MIT OCW.)
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Underground view of a PMA-2 buried mine. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Display Mines
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: disp38.jpg
 uid: 4a066abf-958c-a888-2a50-680a7d7d9eb4
 ---
 Underground view of a PMA-2 buried mine. 
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: Dual-Purpose Improved Conventional Munition (DPICM).
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Display Mines
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: disp27.jpg
 uid: 5d4bd706-b7a6-6b53-b194-bb1d2b4eedf1
 ---
 Dual-Purpose Improved Conventional Munition (DPICM).
-

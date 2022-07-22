@@ -13,10 +13,10 @@ image_metadata:
   image-alt: Two photos of people kneeling on the ground and digging with demining
     tools.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ec-s06s07-th.jpg
 uid: 9a8d472f-2858-b081-c077-db51dd05914a
 ---
 Two examples of demining tools in use. Photo by Andrew Heafitz. Right: Photo courtesy of Andy Smith, used with permission.
-

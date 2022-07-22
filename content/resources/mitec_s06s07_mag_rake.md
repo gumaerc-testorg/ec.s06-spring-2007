@@ -5,6 +5,7 @@ file: /courses/ec-s06-design-for-demining-spring-2007/e2ea83ed0714bdb3d96133a0bf
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MagRake
 uid: e2ea83ed-0714-bdb3-d961-33a0bfd3977f
 ---
 This is a resource file that contains information regarding magrake.
-

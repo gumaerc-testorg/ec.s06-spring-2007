@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
   image-alt: 'Rocky ground. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: MIT Tools Trial
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mittool07.jpg
 uid: 36cde4e7-e7a7-2e09-d27e-b0fdbcaebe9d
 ---
 Rocky ground. 
-

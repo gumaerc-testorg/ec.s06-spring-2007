@@ -5,6 +5,7 @@ file: /courses/ec-s06-design-for-demining-spring-2007/bddf7a9d13392fd4a43accbc69
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Fog Deflectors
 uid: bddf7a9d-1339-2fd4-a43a-ccbc69d930f3
 ---
 This is a resource file that contains information regarding fog deflectors.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Trip
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: mittool04.jpg
 uid: 3133fa9e-2856-eabf-eb1e-6a9624e97dcc
 ---
 Digging a hole in rocky ground.
-

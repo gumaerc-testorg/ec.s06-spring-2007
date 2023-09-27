@@ -39,12 +39,13 @@
     "website": "ec-s06-design-for-demining-spring-2007"
   },
   "learning_resource_types": [
-    "Video Materials",
     "Image Gallery",
     "Projects",
     "Design Assignments with Examples",
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Demonstration Videos"
   ],
-  "site_uid": "71722781-a66e-44b4-94d9-0fcde554b44b",
+  "site_uid": "76615483-f5e6-46ab-b96b-2b1e40d0ebbc",
+  "site_short_id": "ec.s06-spring-2007",
   "title": "Course Metadata"
 }

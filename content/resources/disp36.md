@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Underground view of a PROM buried mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/8308bd9185786f1af09538c78f75b2ea_disp36.jpg
+file_size: 54169
 file_type: image/jpeg
 image_metadata:
   caption: Underground view of a PROM buried mine.

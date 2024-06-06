@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Trip wire feeler. '
 file: /courses/ec-s06-design-for-demining-spring-2007/d304f1fb2228cd93ae3ca7984c0b7e22_demo04.jpg
+file_size: 112861
 file_type: image/jpeg
 image_metadata:
   caption: Trip wire feeler.

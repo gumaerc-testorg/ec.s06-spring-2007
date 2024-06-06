@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Shaped charge effects. '
 file: /courses/ec-s06-design-for-demining-spring-2007/47edddf7518cb4864f2416cbd2a638ab_disp29.jpg
+file_size: 54884
 file_type: image/jpeg
 image_metadata:
   caption: Shaped charge effects.

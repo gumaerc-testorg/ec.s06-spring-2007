@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Mine marker. '
 file: /courses/ec-s06-design-for-demining-spring-2007/ea9865f6258d480b1525f3bab36217fc_mine07.jpg
+file_size: 83995
 file_type: image/jpeg
 image_metadata:
   caption: Mine marker.

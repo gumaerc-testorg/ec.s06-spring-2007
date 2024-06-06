@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Unexploded ordinance (UXO). '
 file: /courses/ec-s06-design-for-demining-spring-2007/562f72edf091202b5e5c849f2a4d5d83_disp23.jpg
+file_size: 63283
 file_type: image/jpeg
 image_metadata:
   caption: Unexploded ordinance (UXO).

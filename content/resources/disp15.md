@@ -2,6 +2,7 @@
 content_type: resource
 description: 'AP blast mines. '
 file: /courses/ec-s06-design-for-demining-spring-2007/98aa380246dfb43cf352de974a014fae_disp15.jpg
+file_size: 35126
 file_type: image/jpeg
 image_metadata:
   caption: AP blast mines.

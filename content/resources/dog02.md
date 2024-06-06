@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Demining dog handlers. '
 file: /courses/ec-s06-design-for-demining-spring-2007/dc7cbb74f82e3d40230a77f7f9826172_dog02.jpg
+file_size: 93852
 file_type: image/jpeg
 image_metadata:
   caption: Demining dog handlers.

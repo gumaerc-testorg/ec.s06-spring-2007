@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Mini flail model number. '
 file: /courses/ec-s06-design-for-demining-spring-2007/1ad8b19464bbe56b60fb8343ea7c8cae_flail14.jpg
+file_size: 81023
 file_type: image/jpeg
 image_metadata:
   caption: Mini flail model number.

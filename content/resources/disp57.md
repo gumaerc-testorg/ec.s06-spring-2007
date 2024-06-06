@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Submunitions. '
 file: /courses/ec-s06-design-for-demining-spring-2007/19abccc32e61d84acf7822a037fa186a_disp57.jpg
+file_size: 53975
 file_type: image/jpeg
 image_metadata:
   caption: Submunitions.

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'MRE materials. '
 file: /courses/ec-s06-design-for-demining-spring-2007/01c8c1bafe4cfc8bde0aab54ea69e773_mre08.jpg
+file_size: 60308
 file_type: image/jpeg
 image_metadata:
   caption: MRE materials.

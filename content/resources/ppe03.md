@@ -2,6 +2,7 @@
 content_type: resource
 description: Fragmentation protective vest.
 file: /courses/ec-s06-design-for-demining-spring-2007/a19490ca4dd2ffb3b1c52afeb50345f7_ppe03.jpg
+file_size: 10093
 file_type: image/jpeg
 image_metadata:
   caption: ''

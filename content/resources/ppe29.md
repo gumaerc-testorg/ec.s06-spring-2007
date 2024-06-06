@@ -2,6 +2,7 @@
 content_type: resource
 description: Orange clippers.
 file: /courses/ec-s06-design-for-demining-spring-2007/ebfd602a05077e62fb42d9f4c4a5f0cf_ppe29.jpg
+file_size: 12886
 file_type: image/jpeg
 image_metadata:
   caption: ''

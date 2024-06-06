@@ -2,6 +2,7 @@
 content_type: resource
 description: PPE.
 file: /courses/ec-s06-design-for-demining-spring-2007/b67a73115fe9f83ee6b2773113065211_ppe05.jpg
+file_size: 10219
 file_type: image/jpeg
 image_metadata:
   caption: ''

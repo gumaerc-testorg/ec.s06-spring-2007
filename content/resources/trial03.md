@@ -2,6 +2,7 @@
 content_type: resource
 description: MIT class at the manual demining demonstration.
 file: /courses/ec-s06-design-for-demining-spring-2007/dcab8121bca81bebcd0044a9150a6044_trial03.jpg
+file_size: 13139
 file_type: image/jpeg
 image_metadata:
   caption: ''

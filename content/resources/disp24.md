@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Improvised explosive devices (IEDs). '
 file: /courses/ec-s06-design-for-demining-spring-2007/b7fc4b5b32eb4d9d5c644741e3110e38_disp24.jpg
+file_size: 100099
 file_type: image/jpeg
 image_metadata:
   caption: Improvised explosive devices (IEDs).

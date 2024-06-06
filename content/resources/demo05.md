@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Probing. '
 file: /courses/ec-s06-design-for-demining-spring-2007/ec64407c2cb38ff085e36f9b78579117_demo05.jpg
+file_size: 108519
 file_type: image/jpeg
 image_metadata:
   caption: Probing.

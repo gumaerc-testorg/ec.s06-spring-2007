@@ -2,6 +2,7 @@
 content_type: resource
 description: Claymore mine.
 file: /courses/ec-s06-design-for-demining-spring-2007/d20b7a4b6ca1b9a6bf9d1d990f79cd85_disp02.jpg
+file_size: 42879
 file_type: image/jpeg
 image_metadata:
   caption: Claymore mine.

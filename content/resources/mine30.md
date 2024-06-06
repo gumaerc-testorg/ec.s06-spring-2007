@@ -2,6 +2,7 @@
 content_type: resource
 description: 'UXO. '
 file: /courses/ec-s06-design-for-demining-spring-2007/fd4472495ea76d35f5be86ddfa8391a5_mine30.jpg
+file_size: 115860
 file_type: image/jpeg
 image_metadata:
   caption: UXO.

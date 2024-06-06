@@ -2,6 +2,7 @@
 content_type: resource
 description: Metal rakes.
 file: /courses/ec-s06-design-for-demining-spring-2007/f18b135823b2fa345f7abea099dc192b_ppe18.jpg
+file_size: 10571
 file_type: image/jpeg
 image_metadata:
   caption: ''

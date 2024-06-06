@@ -2,6 +2,7 @@
 content_type: resource
 description: Student using metal detector.
 file: /courses/ec-s06-design-for-demining-spring-2007/aacf33eef651ed41cc0e10b407811af0_trial10.jpg
+file_size: 12572
 file_type: image/jpeg
 image_metadata:
   caption: ''

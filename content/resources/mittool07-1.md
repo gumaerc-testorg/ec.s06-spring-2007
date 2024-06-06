@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Rocky ground. '
 file: /courses/ec-s06-design-for-demining-spring-2007/36cde4e7e7a72e09d27eb0fdbcaebe9d_mittool07.jpg
+file_size: 126578
 file_type: image/jpeg
 image_metadata:
   caption: Rocky ground.

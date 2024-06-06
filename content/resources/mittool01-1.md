@@ -2,6 +2,7 @@
 content_type: resource
 description: 'MIT class testing MIT tools. '
 file: /courses/ec-s06-design-for-demining-spring-2007/1d77c0411d90bb5c06257e1f4ea947fd_mittool01.jpg
+file_size: 76320
 file_type: image/jpeg
 image_metadata:
   caption: MIT class testing MIT tools.

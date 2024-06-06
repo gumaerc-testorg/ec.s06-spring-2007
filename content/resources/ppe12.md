@@ -2,6 +2,7 @@
 content_type: resource
 description: Mine shoes.
 file: /courses/ec-s06-design-for-demining-spring-2007/ad4e1a04f1df43d268a589da8285ec27_ppe12.jpg
+file_size: 12030
 file_type: image/jpeg
 image_metadata:
   caption: ''

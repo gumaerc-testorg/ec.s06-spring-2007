@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lane markings. '
 file: /courses/ec-s06-design-for-demining-spring-2007/f08c1636353061c4a75a5d2914d837ec_lane08.jpg
+file_size: 115966
 file_type: image/jpeg
 image_metadata:
   caption: Lane markings.

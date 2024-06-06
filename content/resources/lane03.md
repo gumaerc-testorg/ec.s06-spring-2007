@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Cambodia marking system. '
 file: /courses/ec-s06-design-for-demining-spring-2007/d49e7e09f68c507c66186aa128181983_lane03.jpg
+file_size: 100537
 file_type: image/jpeg
 image_metadata:
   caption: Cambodia marking system.

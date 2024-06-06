@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Ben. '
 file: /courses/ec-s06-design-for-demining-spring-2007/01337e878be785b3a3adda5bf180b6c6_trial01.jpg
+file_size: 80097
 file_type: image/jpeg
 image_metadata:
   caption: Ben.

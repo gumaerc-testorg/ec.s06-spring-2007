@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Truck used to transport mini flail. '
 file: /courses/ec-s06-design-for-demining-spring-2007/c5e1a64989cefc2d27c221eaec04328e_flail17.jpg
+file_size: 77510
 file_type: image/jpeg
 image_metadata:
   caption: Truck used to transport mini flail.

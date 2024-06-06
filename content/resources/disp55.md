@@ -2,6 +2,7 @@
 content_type: resource
 description: 'M149 and M34 mines. '
 file: /courses/ec-s06-design-for-demining-spring-2007/eaa60b4a6bb2eab28de805d550664b71_disp55.jpg
+file_size: 54588
 file_type: image/jpeg
 image_metadata:
   caption: M149 and M34 mines.

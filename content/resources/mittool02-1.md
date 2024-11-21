@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'MIT pick prod trial. '
-file: /courses/ec-s06-design-for-demining-spring-2007/da1b6412e4be818cf6f97a15f71631f2_mittool02.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/da1b6412e4be818cf6f97a15f71631f2_mittool02.jpg
 file_size: 66538
 file_type: image/jpeg
 image_metadata:

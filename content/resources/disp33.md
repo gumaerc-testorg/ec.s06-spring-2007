@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Tripwired stake mines. '
-file: /courses/ec-s06-design-for-demining-spring-2007/7f4f4cc1c663a297b5bd79c1d620305d_disp33.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/7f4f4cc1c663a297b5bd79c1d620305d_disp33.jpg
 file_size: 79005
 file_type: image/jpeg
 image_metadata:

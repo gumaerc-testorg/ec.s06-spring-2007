@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Claymore mine. '
-file: /courses/ec-s06-design-for-demining-spring-2007/418132804e22d04c0a50a58548f2f7f8_disp01.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/418132804e22d04c0a50a58548f2f7f8_disp01.jpg
 file_size: 45029
 file_type: image/jpeg
 image_metadata:

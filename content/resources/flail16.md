@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Close up of mini flail tracks. '
-file: /courses/ec-s06-design-for-demining-spring-2007/f63158148e6c5e8a9b134e7442ecb17c_flail16.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/f63158148e6c5e8a9b134e7442ecb17c_flail16.jpg
 file_size: 119797
 file_type: image/jpeg
 image_metadata:

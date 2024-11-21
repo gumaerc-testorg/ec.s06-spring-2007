@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Emplaced Valmara mine. '
-file: /courses/ec-s06-design-for-demining-spring-2007/4f984104a060f70b6f83d46ba81d837a_mine03.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/4f984104a060f70b6f83d46ba81d837a_mine03.jpg
 file_size: 95221
 file_type: image/jpeg
 image_metadata:

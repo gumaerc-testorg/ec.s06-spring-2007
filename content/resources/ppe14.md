@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Metal detectors.
-file: /courses/ec-s06-design-for-demining-spring-2007/2c2521973d73b4e955172c40f007ddd6_ppe14.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/2c2521973d73b4e955172c40f007ddd6_ppe14.jpg
 file_size: 13071
 file_type: image/jpeg
 image_metadata:

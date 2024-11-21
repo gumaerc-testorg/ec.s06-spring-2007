@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Underground view of a PMA-2 buried mine. '
-file: /courses/ec-s06-design-for-demining-spring-2007/4a066abf958ca8882a50680a7d7d9eb4_disp38.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/4a066abf958ca8882a50680a7d7d9eb4_disp38.jpg
 file_size: 69076
 file_type: image/jpeg
 image_metadata:

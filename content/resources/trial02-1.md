@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Andrew. '
-file: /courses/ec-s06-design-for-demining-spring-2007/693ceb6402ffbe9a3f644338b4d7c1ad_trial02.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/693ceb6402ffbe9a3f644338b4d7c1ad_trial02.jpg
 file_size: 92311
 file_type: image/jpeg
 image_metadata:

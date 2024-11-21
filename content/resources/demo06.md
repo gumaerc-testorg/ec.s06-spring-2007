@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Probing close up. '
-file: /courses/ec-s06-design-for-demining-spring-2007/b3a59417b660628e847a6867f7a8e68e_demo06.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/b3a59417b660628e847a6867f7a8e68e_demo06.jpg
 file_size: 80319
 file_type: image/jpeg
 image_metadata:

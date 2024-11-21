@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'AT mine cutaway. '
-file: /courses/ec-s06-design-for-demining-spring-2007/d1b399401be834bfbdb8d0ffcecba17b_disp06.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/d1b399401be834bfbdb8d0ffcecba17b_disp06.jpg
 file_size: 55561
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'M93 Hornet mine. '
-file: /courses/ec-s06-design-for-demining-spring-2007/d0dd7294034d5f652ded0effff8e6709_disp50.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/d0dd7294034d5f652ded0effff8e6709_disp50.jpg
 file_size: 50761
 file_type: image/jpeg
 image_metadata:

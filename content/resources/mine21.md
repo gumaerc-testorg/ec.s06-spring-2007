@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Hidden mine. '
-file: /courses/ec-s06-design-for-demining-spring-2007/4c403a4dd3ddff12faff2009eaa40e9a_mine21.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/4c403a4dd3ddff12faff2009eaa40e9a_mine21.jpg
 file_size: 74238
 file_type: image/jpeg
 image_metadata:

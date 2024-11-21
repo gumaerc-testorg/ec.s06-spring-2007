@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'US M46 mine. '
-file: /courses/ec-s06-design-for-demining-spring-2007/44705c3017f2a9c351e091d0ca8f3236_disp53.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/44705c3017f2a9c351e091d0ca8f3236_disp53.jpg
 file_size: 41875
 file_type: image/jpeg
 image_metadata:

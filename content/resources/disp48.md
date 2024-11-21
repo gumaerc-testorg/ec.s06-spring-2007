@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Display mines. '
-file: /courses/ec-s06-design-for-demining-spring-2007/45d36ccdc4d732b914ca30a7b5a14198_disp48.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/45d36ccdc4d732b914ca30a7b5a14198_disp48.jpg
 file_size: 51383
 file_type: image/jpeg
 image_metadata:

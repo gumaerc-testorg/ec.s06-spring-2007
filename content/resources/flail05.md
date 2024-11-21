@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Operator controlling the mini flail. '
-file: /courses/ec-s06-design-for-demining-spring-2007/e7cf0730c26155fbc5bf761d4fd96308_flail05.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/e7cf0730c26155fbc5bf761d4fd96308_flail05.jpg
 file_size: 94228
 file_type: image/jpeg
 image_metadata:

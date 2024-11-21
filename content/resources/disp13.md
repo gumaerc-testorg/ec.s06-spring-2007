@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Anti-handling devices. '
-file: /courses/ec-s06-design-for-demining-spring-2007/9596c9166850573a8a09ae29f3894355_disp13.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/9596c9166850573a8a09ae29f3894355_disp13.jpg
 file_size: 74255
 file_type: image/jpeg
 image_metadata:

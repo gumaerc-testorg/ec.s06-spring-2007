@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Buried mine. '
-file: /courses/ec-s06-design-for-demining-spring-2007/93df61435697d10a91e100a4d3ba06ad_demo10.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/93df61435697d10a91e100a4d3ba06ad_demo10.jpg
 file_size: 117809
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'MRE materials. '
-file: /courses/ec-s06-design-for-demining-spring-2007/b41b16fff14249c133c6efb4a5a8de22_mre03.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/b41b16fff14249c133c6efb4a5a8de22_mre03.jpg
 file_size: 46352
 file_type: image/jpeg
 image_metadata:

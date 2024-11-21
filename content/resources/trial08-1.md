@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Student probing. '
-file: /courses/ec-s06-design-for-demining-spring-2007/9e59275bff78e27cbf327242622d83fa_trial08.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/9e59275bff78e27cbf327242622d83fa_trial08.jpg
 file_size: 108082
 file_type: image/jpeg
 image_metadata:

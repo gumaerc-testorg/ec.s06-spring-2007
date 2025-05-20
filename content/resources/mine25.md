@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Weathered mine with markers. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/1a9676c7b9b3c6d2d9b4bed3fcec9917_mine25.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/1a9676c7b9b3c6d2d9b4bed3fcec9917_mine25.jpg
 file_size: 118560
 file_type: image/jpeg
 image_metadata:

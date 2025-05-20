@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Operator. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/17730a8305cae080fb863dd5c2e8c974_flail06.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/17730a8305cae080fb863dd5c2e8c974_flail06.jpg
 file_size: 106036
 file_type: image/jpeg
 image_metadata:

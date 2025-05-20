@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'PROM mine cutaway. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/10a2395ac89f68faea1d2d28d6573739_disp07.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/10a2395ac89f68faea1d2d28d6573739_disp07.jpg
 file_size: 51324
 file_type: image/jpeg
 image_metadata:

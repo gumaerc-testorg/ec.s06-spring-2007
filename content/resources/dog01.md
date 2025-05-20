@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'MIT class with demining dogs. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/b3e03265d4a741d2f33f78df0d6173de_dog01.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/b3e03265d4a741d2f33f78df0d6173de_dog01.jpg
 file_size: 97175
 file_type: image/jpeg
 image_metadata:

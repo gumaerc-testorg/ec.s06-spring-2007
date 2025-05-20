@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'AP shoe mines. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/d17e41abf5288f8b553b063400e83b20_disp19.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/d17e41abf5288f8b553b063400e83b20_disp19.jpg
 file_size: 74615
 file_type: image/jpeg
 image_metadata:

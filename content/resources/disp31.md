@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Exposed and buried AT mines. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/3c2a6ba1d6bc93ccfc6f447ca5e2a723_disp31.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/3c2a6ba1d6bc93ccfc6f447ca5e2a723_disp31.jpg
 file_size: 79151
 file_type: image/jpeg
 image_metadata:

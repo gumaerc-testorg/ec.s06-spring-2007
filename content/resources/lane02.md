@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Afghanistan marking system. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/c348335e196c39b435b3e77927e13a9d_lane02.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/c348335e196c39b435b3e77927e13a9d_lane02.jpg
 file_size: 100843
 file_type: image/jpeg
 image_metadata:

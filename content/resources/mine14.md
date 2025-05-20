@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Emplaced anti-tank (AT) mine. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/987bf3b255807046d4ba58dd8521ba8c_mine14.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/987bf3b255807046d4ba58dd8521ba8c_mine14.jpg
 file_size: 109921
 file_type: image/jpeg
 image_metadata:

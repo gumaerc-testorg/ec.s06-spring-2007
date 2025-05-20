@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Underground view of buried mines. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/f10956c3b4203fd47a6086c96a13069a_disp39.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/f10956c3b4203fd47a6086c96a13069a_disp39.jpg
 file_size: 86244
 file_type: image/jpeg
 image_metadata:

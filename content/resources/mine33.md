@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'UXO. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/435e79edd43819dd4d75dc47451f466f_mine33.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/435e79edd43819dd4d75dc47451f466f_mine33.jpg
 file_size: 85132
 file_type: image/jpeg
 image_metadata:

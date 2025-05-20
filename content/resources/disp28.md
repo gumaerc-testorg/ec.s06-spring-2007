@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'DPICM shaped charge. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/c076e69777299bad3a244b31f541a08a_disp28.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/c076e69777299bad3a244b31f541a08a_disp28.jpg
 file_size: 44383
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Demining gear.
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/ff53ee745f247071d837e92a1ad3f375_trial06.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/ff53ee745f247071d837e92a1ad3f375_trial06.jpg
 file_size: 12607
 file_type: image/jpeg
 image_metadata:

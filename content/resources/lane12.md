@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Markings. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/46a8b53f55b30cd46a89e228812c07d5_lane12.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/46a8b53f55b30cd46a89e228812c07d5_lane12.jpg
 file_size: 36321
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Above ground view of a PROM buried mine. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/739e50c817199df99a2eea87bc6c79ad_disp35.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/739e50c817199df99a2eea87bc6c79ad_disp35.jpg
 file_size: 94282
 file_type: image/jpeg
 image_metadata:

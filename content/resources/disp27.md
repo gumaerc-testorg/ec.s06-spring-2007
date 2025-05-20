@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dual-Purpose Improved Conventional Munition (DPICM).
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/5d4bd706b7a66b53b194bb1d2b4eedf1_disp27.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/5d4bd706b7a66b53b194bb1d2b4eedf1_disp27.jpg
 file_size: 42475
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Emplaced mine. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/30a4ef759240822f38d1392db93f1683_mine10.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/30a4ef759240822f38d1392db93f1683_mine10.jpg
 file_size: 115289
 file_type: image/jpeg
 image_metadata:

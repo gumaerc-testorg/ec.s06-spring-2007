@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Cement block IED. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/94b852e072758011476f3ce88778be95_disp25.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/94b852e072758011476f3ce88778be95_disp25.jpg
 file_size: 55907
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Stacked AT mines. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/b084850bc02ccd7dc7def097caf4f162_disp45.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/b084850bc02ccd7dc7def097caf4f162_disp45.jpg
 file_size: 54069
 file_type: image/jpeg
 image_metadata:

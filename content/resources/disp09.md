@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Fuzes.
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/4802500104f431f4163bacfdb6370bd2_disp09.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/4802500104f431f4163bacfdb6370bd2_disp09.jpg
 file_size: 51841
 file_type: image/jpeg
 image_metadata:

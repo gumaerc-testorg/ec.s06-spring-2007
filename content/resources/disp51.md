@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'TS-50 mines. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/d193596852f35fba8c6412ccf37c96f6_disp51.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/d193596852f35fba8c6412ccf37c96f6_disp51.jpg
 file_size: 43269
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Mine. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/b71152945fb8cc57e369bb30e4077227_mine09.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/b71152945fb8cc57e369bb30e4077227_mine09.jpg
 file_size: 134253
 file_type: image/jpeg
 image_metadata:

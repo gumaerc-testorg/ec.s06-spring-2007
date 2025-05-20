@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Food packages. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/b764f88c20bbfc68434c1147fac5c1cd_disp44.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/b764f88c20bbfc68434c1147fac5c1cd_disp44.jpg
 file_size: 63074
 file_type: image/jpeg
 image_metadata:

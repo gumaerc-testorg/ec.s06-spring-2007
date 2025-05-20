@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Blast tested equipment.
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/b290da7504bad6a9d6a5cdb572aa44ad_ppe21.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/b290da7504bad6a9d6a5cdb572aa44ad_ppe21.jpg
 file_size: 12651
 file_type: image/jpeg
 image_metadata:

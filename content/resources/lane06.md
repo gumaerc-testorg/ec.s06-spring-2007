@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Mozambique marking system. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/fd2eda907e2819aa6224ef12c0cc8675_lane06.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/fd2eda907e2819aa6224ef12c0cc8675_lane06.jpg
 file_size: 110746
 file_type: image/jpeg
 image_metadata:

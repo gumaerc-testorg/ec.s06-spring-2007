@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'MIT class learning manual demining techniques. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/d36a7654ec7f150c6f38e7e0c8740f5a_trial04.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/d36a7654ec7f150c6f38e7e0c8740f5a_trial04.jpg
 file_size: 102777
 file_type: image/jpeg
 image_metadata:

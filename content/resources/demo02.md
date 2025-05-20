@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Manual demining demonstration. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/58db96c1eabbb984b78d83f1deb8f15a_demo02.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/58db96c1eabbb984b78d83f1deb8f15a_demo02.jpg
 file_size: 99447
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Large unknown mine. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/b5fd785486daa7526469e1533f85b59a_disp56.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/b5fd785486daa7526469e1533f85b59a_disp56.jpg
 file_size: 53067
 file_type: image/jpeg
 image_metadata:

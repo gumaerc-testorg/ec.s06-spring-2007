@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Close up of an emplaced AT mine. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/042dbe9cf404e041d4b11fbe829b5e6a_mine15.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/042dbe9cf404e041d4b11fbe829b5e6a_mine15.jpg
 file_size: 101310
 file_type: image/jpeg
 image_metadata:

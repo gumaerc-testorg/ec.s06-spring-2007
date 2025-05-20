@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MIT class trying out manual demining techniques.
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/b94ef2125f770944587245348b507999_trial05.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/b94ef2125f770944587245348b507999_trial05.jpg
 file_size: 12870
 file_type: image/jpeg
 image_metadata:

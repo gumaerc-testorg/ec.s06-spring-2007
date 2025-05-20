@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Russian bomb and FAE. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/ab106ccfefb4dfeecd0e5686d1ede850_mine08.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/ab106ccfefb4dfeecd0e5686d1ede850_mine08.jpg
 file_size: 89098
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Front view of the mini flail hammers. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/150b1c270dd586353d2c7c4b0db39c56_flail12.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/150b1c270dd586353d2c7c4b0db39c56_flail12.jpg
 file_size: 98217
 file_type: image/jpeg
 image_metadata:

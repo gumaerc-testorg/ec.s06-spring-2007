@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'AT mines. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/102c1371e8061f65f2a65f031d82efca_disp21.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/102c1371e8061f65f2a65f031d82efca_disp21.jpg
 file_size: 79519
 file_type: image/jpeg
 image_metadata:

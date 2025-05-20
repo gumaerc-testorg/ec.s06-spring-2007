@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Emplaced shoe mine and markers. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/679712d8e9360cb91e8d396fe6f2904a_mine13.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/679712d8e9360cb91e8d396fe6f2904a_mine13.jpg
 file_size: 130164
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Armoured fist.
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/47b1ff92204a628f67744c821be6d213_ppe13.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/47b1ff92204a628f67744c821be6d213_ppe13.jpg
 file_size: 12856
 file_type: image/jpeg
 image_metadata:

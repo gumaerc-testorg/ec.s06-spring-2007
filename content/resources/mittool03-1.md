@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Digging a hole with MIT pick prod. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/04a7057ac0aef0f606940e3d1290f58d_mittool03.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/04a7057ac0aef0f606940e3d1290f58d_mittool03.jpg
 file_size: 80303
 file_type: image/jpeg
 image_metadata:

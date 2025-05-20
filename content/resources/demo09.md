@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Digging a hole. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/5eb799be3dc029274135d1abc59066b2_demo09.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/5eb799be3dc029274135d1abc59066b2_demo09.jpg
 file_size: 99255
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Digging a hole in rocky ground. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/f3756bee98ac0fabd763878eddaa3224_mittool04.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/f3756bee98ac0fabd763878eddaa3224_mittool04.jpg
 file_size: 72793
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Custom tool kit.
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/b5f2a8868fa2d45ffb033ab98b7738a4_ppe24.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/b5f2a8868fa2d45ffb033ab98b7738a4_ppe24.jpg
 file_size: 10029
 file_type: image/jpeg
 image_metadata:

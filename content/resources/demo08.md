@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Handling a weathered mine. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/99f43dd5d723a11a099c6a2f9799fa3c_demo08.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/99f43dd5d723a11a099c6a2f9799fa3c_demo08.jpg
 file_size: 84896
 file_type: image/jpeg
 image_metadata:

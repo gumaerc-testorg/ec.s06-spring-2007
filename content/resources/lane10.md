@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lane markings. '
-file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/f6c2e6d827c8a62be598ec9303f8c38b_lane10.jpg
+file: /courses/ec-s06-design-for-demining-spring-2007/f6c2e6d827c8a62be598ec9303f8c38b_lane10.jpg
 file_size: 118838
 file_type: image/jpeg
 image_metadata:

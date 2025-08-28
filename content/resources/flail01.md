@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Mini flail. '
-file: /courses/ec-s06-design-for-demining-spring-2007/1215cfe1da8d0fa44c9e6109215a2933_flail01.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/1215cfe1da8d0fa44c9e6109215a2933_flail01.jpg
 file_size: 93802
 file_type: image/jpeg
 image_metadata:

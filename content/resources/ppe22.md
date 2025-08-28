@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Deminers tool set.
-file: /courses/ec-s06-design-for-demining-spring-2007/0e9be8cc0c8d9e0a64931f526558ba68_ppe22.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/0e9be8cc0c8d9e0a64931f526558ba68_ppe22.jpg
 file_size: 12731
 file_type: image/jpeg
 image_metadata:

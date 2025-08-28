@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Subsiding mortar. '
-file: /courses/ec-s06-design-for-demining-spring-2007/71504e4596283e5673627ffe15c9949c_mine34.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/71504e4596283e5673627ffe15c9949c_mine34.jpg
 file_size: 104728
 file_type: image/jpeg
 image_metadata:

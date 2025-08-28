@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Student using metal detector. '
-file: /courses/ec-s06-design-for-demining-spring-2007/9dcc069e7c9f664d4061567b110ae26b_trial10.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/9dcc069e7c9f664d4061567b110ae26b_trial10.jpg
 file_size: 98928
 file_type: image/jpeg
 image_metadata:

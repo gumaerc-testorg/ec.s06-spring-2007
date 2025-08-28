@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Weathered mine. '
-file: /courses/ec-s06-design-for-demining-spring-2007/e0faf3b936a6a92499817c941aae5550_mine28.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/e0faf3b936a6a92499817c941aae5550_mine28.jpg
 file_size: 97005
 file_type: image/jpeg
 image_metadata:

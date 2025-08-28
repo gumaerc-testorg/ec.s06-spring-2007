@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Testing MIT pick prod grip. '
-file: /courses/ec-s06-design-for-demining-spring-2007/64f3e6df6c6a77e92a08b3b51233bf0a_mittool05.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/64f3e6df6c6a77e92a08b3b51233bf0a_mittool05.jpg
 file_size: 72977
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'M139 Volcano mine. '
-file: /courses/ec-s06-design-for-demining-spring-2007/ba982dc2fb531f506c3bb3bf1e8fe5ca_disp54.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/ba982dc2fb531f506c3bb3bf1e8fe5ca_disp54.jpg
 file_size: 56757
 file_type: image/jpeg
 image_metadata:

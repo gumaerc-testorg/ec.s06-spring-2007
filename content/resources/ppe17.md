@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Wooden rakes.
-file: /courses/ec-s06-design-for-demining-spring-2007/b43cae208665fbe4bfd0abb03ed7b73c_ppe17.jpg
+file: /ol-ocw-studio-app/courses/ec-s06-design-for-demining-spring-2007/b43cae208665fbe4bfd0abb03ed7b73c_ppe17.jpg
 file_size: 10609
 file_type: image/jpeg
 image_metadata:

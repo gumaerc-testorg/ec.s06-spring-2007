@@ -42,12 +42,12 @@ Videos
 
 ### Flail Used for Vegetation Clearance
 
-Video ({{% resource_link "a8abdf05-a802-482f-89b7-b305261c4c94" "MPG - 6.9 MB" %}})
+Video ([MPG - 6.9 MB](http://www.archive.org/download/MITSP.776S07/flail5.MPG))
 
 ### Manual Demining Demonstration
 
-Video ({{% resource_link "732782a9-03b3-408c-9d7e-382d5999756d" "MPG - 5.0 MB" %}})
+Video ([MPG - 5.0 MB](http://www.archive.org/download/MITSP.776S07/manual.MPG))
 
 ### MIT Tools Trial
 
-Video ({{% resource_link "d1ee3ea0-b175-43a1-ad03-2435bd58549a" "MP4 - 3.5 MB" %}})
+Video ([MP4 - 3.5 MB](http://www.archive.org/download/MITSP.776S07/tool1_512kb.mp4))

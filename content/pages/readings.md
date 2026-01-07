@@ -28,9 +28,9 @@ READINGS
 {{< tdopen >}}
 
 
-Read "Understanding Landmines and Mine Action" by Robert Keeley. Be prepared to discuss landmines and mine action and answer questions. ({{% resource_link "f7087610-2b2d-4b43-bb8b-d830f25aed3c" "PDF - 1.4MB" %}})
+Read "Understanding Landmines and Mine Action" by Robert Keeley. Be prepared to discuss landmines and mine action and answer questions. ([PDF - 1.4MB](http://web.mit.edu/demining/assignments/understanding-landmines.pdf))
 
-Browse the {{% resource_link "20f7ddfc-57c1-457f-81b4-296e49180e70" "ORDATA" %}} online demining database.
+Browse the [ORDATA](http://archive.is/ordatamines.maic.jmu.edu) online demining database.
 
 
 {{< tdclose >}}
@@ -43,13 +43,13 @@ Browse the {{% resource_link "20f7ddfc-57c1-457f-81b4-296e49180e70" "ORDATA" %}}
 {{< tdopen >}}
 
 
-Read "{{% resource_link "7b8c2da0-44db-4f14-a774-0823eef88e27" "A Fresh Approach to Road Clearance Operations" %}}" by Roger Hess.
+Read "[A Fresh Approach to Road Clearance Operations](http://maic.jmu.edu/journal/7.1/focus/hess/hess.htm)" by Roger Hess.
 
-Read any three articles in {{% resource_link "8cc38db3-5039-4c96-85c1-d6c29ffb6db9" "Issue 7.3 of the Journal of Mine Action" %}}.
+Read any three articles in [Issue 7.3 of the Journal of Mine Action](http://maic.jmu.edu/journal/7.3/index.htm).
 
-Review the manual demining process in Bob Keeley's paper, "Understanding Landmines and Mine Action", previously assigned. ({{% resource_link "f7087610-2b2d-4b43-bb8b-d830f25aed3c" "PDF - 1.4 MB" %}})
+Review the manual demining process in Bob Keeley's paper, "Understanding Landmines and Mine Action", previously assigned. ([PDF - 1.4 MB](http://web.mit.edu/demining/assignments/understanding-landmines.pdf))
 
-Read through the 10 presentations that are part of "{{% resource_link "585acc0b-7fff-4a1b-a4ae-fae5955439dc" "Introducing Demining" %}}" by Andy Smith.
+Read through the 10 presentations that are part of "[Introducing Demining](https://www.nolandmines.com/introducing%20demining.html)" by Andy Smith.
 
 
 {{< tdclose >}}
@@ -62,13 +62,13 @@ Read through the 10 presentations that are part of "{{% resource_link "585acc0b-
 {{< tdopen >}}
 
 
-Read the JMA paper "{{% resource_link "34d1d7bb-747e-452e-9fe5-9627d2d404d7" "The Facts on Protection Needs in Humanitarian Demining" %}}" by Andy Smith.
+Read the JMA paper "[The Facts on Protection Needs in Humanitarian Demining](http://maic.jmu.edu/journal/4.2/Focus/PN/protectneeds.htm)" by Andy Smith.
 
-Follow this with the JMA paper "{{% resource_link "14a68abe-c188-47c4-955d-8fa90ac46da4" "What Use is a Database of Demining Accidents?" %}}" also by Andy Smith.
+Follow this with the JMA paper "[What Use is a Database of Demining Accidents?](http://maic.jmu.edu/journal/6.2/notes/andysmith/andysmith.htm)" also by Andy Smith.
 
-Read the JMA paper "{{% resource_link "cde67751-4f7d-479c-9048-c029ea5955d1" "Women Deminers in Croatia" %}}" by Jennette Townsend.
+Read the JMA paper "[Women Deminers in Croatia](http://maic.jmu.edu/journal/7.2/focus/townsend/townsend.htm)" by Jennette Townsend.
 
-Read the JMA paper "{{% resource_link "6735a5e3-5daa-4695-8835-0bb3ce47aa09" "First Person: Deminers' Stories" %}}" by Huntington Associates.
+Read the JMA paper "[First Person: Deminers' Stories](http://maic.jmu.edu/journal/7.1/focus/huntington/huntington.htm)" by Huntington Associates.
 
 
 {{< tdclose >}}
@@ -81,7 +81,7 @@ Read the JMA paper "{{% resource_link "6735a5e3-5daa-4695-8835-0bb3ce47aa09" "Fi
 {{< tdopen >}}
 
 
-Read the JMA paper "{{% resource_link "29cb6f0c-f1dd-40a4-aa57-d2af76f6de0f" "How Product Design Can Improve Manual Demining" %}}" by Anders Ilsøy.
+Read the JMA paper "[How Product Design Can Improve Manual Demining](http://maic.jmu.edu/journal/7.1/focus/ilsoy/ilsoy.htm)" by Anders Ilsøy.
 
 Read the paper "Farming Minefields" by Trevelyan, et al. ({{% resource_link 0b8e4d8b-8889-fe0f-c060-37b00372c99b "PDF" %}}) (Courtesy of James Trevelyan. Used with permission.)
 
@@ -98,7 +98,7 @@ The reading will help you think more broadly about opportunities and ideas that 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Read "{{% resource_link "e256b8b4-ec9d-4122-a78a-b5e93285ca36" "The U.S. Department of Defense Humanitarian Demining Training Center: A Center of Excellence" %}}" and review the {{% resource_link "58d8fba8-12ee-42a3-840a-2ddd7276db58" "Web site" %}}. Generate a list of questions you want to answer during the trip and bring it with you.
+Read "[The U.S. Department of Defense Humanitarian Demining Training Center: A Center of Excellence](http://maic.jmu.edu/journal/8.1/focus/carpenter/carpenter.htm)" and review the [Web site](https://2009-2017.state.gov/t/pm/rls/rpt/walkearth/2016/263963.htm). Generate a list of questions you want to answer during the trip and bring it with you.
 {{< tdclose >}}
 
 {{< trclose >}}
